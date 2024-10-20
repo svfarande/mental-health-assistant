@@ -21,9 +21,9 @@ Our solution enables users to converse with our mental health assistant directly
 
 In the example below, a user interacts with the mental health assistant via WhatsApp, discussing their feelings and receiving tailored support.
 
-![ScreenShot](screenshots/image1.jpg)
+![ScreenShot](Screenshots/image1.jpg)
 
-![ScreenShot](screenshots/image2.jpg)
+![ScreenShot](Screenshots/image2.jpg)
 
 ### Flow Diagram : 
 
